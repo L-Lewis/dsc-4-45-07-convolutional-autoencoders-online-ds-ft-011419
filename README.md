@@ -8,11 +8,11 @@ In this lesson , we will look at Convolutional autoencoders (CAEs). Autoencoders
 *Note: You are advised to refer back to the section on CNNs for details on convolution process and conv/pooling layers.*
 
 ## Objectives
-You will be able to : 
+You will be able to: 
 
 - Understand how convolution is used with autoencoders
 - Describe the Encoder and Decoder components of a CAE
-- Provide nasic understanding for application areas for CAEs.
+- Provide nasic understanding for application areas for CAEs
 
 ## Convolutions - Recap
 
